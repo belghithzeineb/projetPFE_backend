@@ -1,0 +1,160 @@
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: 'page'
+An error occurred: name 'page' is not defined
+An error occurred: 'x'
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: string indices must be integers
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'page'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'x'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: name 'pr' is not defined
+An error occurred: name 'pr' is not defined
+An error occurred: name 'pr' is not defined
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Nom organisme'
+An error occurred: 'Assistance'
+An error occurred: 'Assistance'
+An error occurred: 'Assistance'
+An error occurred: 'LogoOrganisme'
+An error occurred: 'LogoOrganisme'
+An error occurred: 'TablePersonnes'
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: need 1, 3 or 4 color components in range 0 to 1
+An error occurred: name 'time' is not defined
+An error occurred: name 'time' is not defined
+An error occurred: 'Nom organisme'
+An error occurred: 'Naissance'
+An error occurred: 'Naissance'
+An error occurred: 'Naissance'
+An error occurred: 'Naissance'
+An error occurred: 'BIC'
+An error occurred: 'BIC'
+An error occurred: no such file: 'D:\pfeproj\myenv\env1\example2.pdf'
+An error occurred: no such file: 'D:\pfeproj\myenv\env1\example2.pdf'
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+Exception on /print_image [GET]
+Traceback (most recent call last):
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1823, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 1842, in finalize_request
+    response = self.make_response(rv)
+  File "c:\users\zeineb belghith\appdata\local\programs\python\python38\lib\site-packages\flask\app.py", line 2134, in make_response
+    raise TypeError(
+TypeError: The view function for 'print_image' did not return a valid response. The function either returned None or ended without a return statement.
+An error occurred: 'Lien famillial'
+An error occurred: 'Lien famillial'
+An error occurred: 'Prtection Juridique'
+An error occurred: 'Date de signature'
+An error occurred: 'Adresse'
+An error occurred: no such file: 'D:\pfeproj\myenv\backend\example2.pdf'
